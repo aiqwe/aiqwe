@@ -8,4 +8,5 @@
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/aiqwe-blue?logo=linkedin)](www.linkedin.com/in/jaylee123)
+[![Static Badge](https://img.shields.io/badge/aiqwe-blue?logo=linkedin)](https://www.linkedin.com/in/jaylee123)
+
