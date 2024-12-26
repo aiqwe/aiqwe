@@ -1,6 +1,6 @@
 ### 🚀 Explore a Finance Model Specialized in Korean!
 
-2nd Prize Winner in the KRX Competition ► 📰 [news](https://www.yna.co.kr/view/AKR20241220069500008)
+2nd Prize Winner in the KRX Competition ► 📰 [Press Release](https://www.yna.co.kr/view/AKR20241220069500008)
 
 + [FinShibainu Model](https://huggingface.co/aiqwe/FinShibainu)
 
